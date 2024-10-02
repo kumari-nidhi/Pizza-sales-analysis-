@@ -4,15 +4,12 @@
 
 The **Pizza Sales Analysis Project** is a comprehensive data analysis and visualization project focused on analyzing sales data from a fictional pizza restaurant chain. This project utilizes **SQL** for data analysis and quering and **Power BI** for dynamic data visualization. The aim is to uncover insights that can help optimize business operations, improve sales strategies, and boost customer satisfaction.
 
----
-
 ## 🚀 Project Objectives
 
 - To explore and visualize pizza sales data to gain actionable insights.
 - To identify top-selling products, customer preferences, and sales trends.
 - To provide data-driven recommendations to enhance decision-making.
 
----
 
 ## 🔧 Tools and Technologies
 
@@ -22,7 +19,6 @@ The **Pizza Sales Analysis Project** is a comprehensive data analysis and visual
 - **Power Query:** For data extraction, cleaning, and transformation within Power BI.
 - **DAX (Data Analysis Expressions):** For creating calculated measures and aggregating data in Power BI.
 
----
 
 ## 📊 Key Components
 
@@ -69,7 +65,6 @@ The **Pizza Sales Analysis Project** is a comprehensive data analysis and visual
    - **Slicers:** For filtering the data by pizza category and date range.
    - **Interactive buttons** for easy navigation between the main dashboard and best/worst sellers analysis.
 
----
 
 ## 📈 Power BI Dashboard Highlights
 
@@ -87,7 +82,6 @@ The **Pizza Sales Analysis Project** is a comprehensive data analysis and visual
 - **Best-Selling Pizzas:** Barbecue Chicken and Classic Deluxe pizza are top performers, leading in revenue, orders and quantity sold.
 - **Low-Performing Pizzas:**  Brie Carre and Mediterranian pizza perform the worst in terms of revenue, orders and quantity sold.
 
----
 
 ## 📋 Project Summary
 
