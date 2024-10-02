@@ -62,8 +62,8 @@ The **Pizza Sales Analysis Project** is a comprehensive data analysis and visual
    - **Top 5 Pizzas by Revenue, Quantity, and Orders:** Bar charts showing the best-selling pizzas (e.g., Barbecue Chicken, California, and Classic Deluxe).
    - **Bottom 5 Pizzas by Revenue, Quantity, and Orders:** Bar charts highlighting low-selling pizzas (e.g., Spinach Pizza, Brie Carre).
    - **Insights:**
-     - **Top Performers:** The **Classic Deluxe Pizza** and **Barbecue Chicken** lead in both revenue and quantity.
-     - **Low Performers:** **Spinach Pizza** and **Brie Carre** perform poorly across all metrics.
+     - **Top Performers:** The **Classic Deluxe Pizza** and **Barbecue Chicken pizza** lead in both revenue and quantity.
+     - **Low Performers:** **Brie Carre pizza** and **Mediterranian pizza** perform poorly across all metrics.
    
    ### **Additional Visual Elements:**
    - **Slicers:** For filtering the data by pizza category and date range.
@@ -84,8 +84,8 @@ The **Pizza Sales Analysis Project** is a comprehensive data analysis and visual
 - **Peak Sales Period:** Most orders are placed on weekends, with Friday being the busiest day.
 - **Top Pizza Size:** Large pizzas contribute to the highest sales, making up 46.15% of total sales.
 - **Category Performance:** Classic pizzas are the most popular, followed by Supreme and Veggie.
-- **Best-Selling Pizzas:** Barbecue Chicken and Classic Deluxe pizza are top performers, leading in revenue and quantity sold.
-- **Low-Performing Pizzas:** Spinach Pizza and Brie Carre perform the worst in terms of revenue and orders.
+- **Best-Selling Pizzas:** Barbecue Chicken and Classic Deluxe pizza are top performers, leading in revenue, orders and quantity sold.
+- **Low-Performing Pizzas:**  Brie Carre and Mediterranian pizza perform the worst in terms of revenue, orders and quantity sold.
 
 ---
 
